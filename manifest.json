@@ -1,15 +1,19 @@
 {
-    "version": "1.0.2",
-    "images": "images/",
-    "id": "net_getoto_streamcontroller_wallpapers",
-    "name": "Zeridons StreamController Wallpapers",
-    "wallpaper_name": "Zeridons StreamController Wallpapers",
-    "user_name": "zeridon",
-    "thumbnail": "store/thumbnail.png",
-    "descriptions": {
-        "en_US": "Some of my wallpapers used in StreamController.",
-        "bg_BG": "Някои от тапетите ми за StreamController."
-    },
-    "description": "Some of my wallpapers used in StreamController."
+  "version": "1.0.3",
+  "thumbnail": "store/thumbnail.png",
+  "id": "net_getoto_streamcontroller_wallpapers",
+  "name": "Zeridon's StreamController Wallpapers",
+  "descriptions": {
+    "en_US": "Some of my wallpapers used in StreamController.",
+    "bg_BG": "Някои от тапетите ми за StreamController."
+  },
+  "short-descriptions": {
+    "en_US": "Zeridon's Wallpapers",
+    "bg_BG": "Тапетите на Zeridon"
+  },
+  "description": "Some of my wallpapers used in StreamController.",
+  "short-description": "Wallpapers for StreamController.",
+  "minimum-app-version": "1.0.0",
+  "app-version": "1.0.0",
+  "images": "images/"
 }
-
