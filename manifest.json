@@ -1,8 +1,10 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "images": "images/",
     "id": "net_getoto_streamcontroller_wallpapers",
-    "name": "Zeridon's StreamController Wallpapers",
+    "name": "Zeridons StreamController Wallpapers",
+    "wallpaper_name": "Zeridons StreamController Wallpapers",
+    "user_name": "zeridon",
     "thumbnail": "store/thumbnail.png",
     "descriptions": {
         "en_US": "Some of my wallpapers used in StreamController.",
