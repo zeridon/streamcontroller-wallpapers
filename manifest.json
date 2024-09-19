@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "thumbnail": "store/thumbnail.png",
   "id": "net_getoto_streamcontroller_wallpapers",
   "name": "Zeridon's StreamController Wallpapers",
@@ -13,7 +13,14 @@
   },
   "description": "Some of my wallpapers used in StreamController.",
   "short-description": "Wallpapers for StreamController.",
+  "author": "zeridon",
+  "user_name": "zeridon",
   "minimum-app-version": "1.0.0",
   "app-version": "1.0.0",
+  "tags": [
+    "wallpapers",
+    "space",
+    "nasa"
+  ],
   "images": "images/"
 }
